@@ -21,4 +21,5 @@
 - git add .
 - git commit -m "เพิ่มสวนท ้ายแบบ ่ Responsive"
 - git add .
+- git commit -m "Readme file"
 - git push
